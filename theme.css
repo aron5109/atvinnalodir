@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+
+:root {
+  /* Palette */
+  --color-1: #F4F2EC;
+  --color-2: #FFFFFF;
+  --color-3: #1C3533;
+  --color-4: #E3ECE6;
+  --color-5: oklch(0.577 0.245 27.325);
+  --color-6: oklch(0.52 0.13 152);
+  --color-7: oklch(0.54 0.12 72);
+  --color-8: #D1EEDB;
+  --color-9: #4A635E;
+  --color-10: #CCDAD3;
+  --color-11: #5E8C7F;
+
+  --font-1: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-2: "Plus Jakarta Sans", system-ui, sans-serif;
+
+  --radius: 0rem;
+
+  --background: var(--color-1);
+  --foreground: var(--color-3);
+  --surface: var(--color-8);
+  --surface-elevated: var(--color-4);
+  --card: var(--color-2);
+  --card-foreground: var(--color-3);
+  --popover: var(--color-2);
+  --popover-foreground: var(--color-3);
+  --primary: var(--color-3);
+  --primary-foreground: var(--color-8);
+  --secondary: var(--color-4);
+  --secondary-foreground: var(--color-3);
+  --muted: var(--color-4);
+  --muted-foreground: var(--color-9);
+  --accent: var(--color-11);
+  --accent-foreground: var(--color-2);
+  --destructive: var(--color-5);
+  --destructive-foreground: var(--color-2);
+  --success: var(--color-6);
+  --success-foreground: var(--color-8);
+  --warning: var(--color-7);
+  --warning-foreground: var(--color-8);
+  --border: var(--color-10);
+  --input: var(--color-10);
+  --ring: var(--color-11);
+
+  --on-image: var(--color-2);
+  --on-image-muted: var(--color-8);
+
+  --font-display: var(--font-1);
+  --font-sans: var(--font-2);
+
+  --display-h1-font-family: var(--font-display);
+  --display-h1-size: clamp(2.5rem, 6vw, 4.5rem);
+  --display-h1-weight: 800;
+  --display-h1-tracking: -0.02em;
+  --display-h1-leading: 1.1;
+  --display-h2-font-family: var(--font-display);
+  --display-h2-size: clamp(1.75rem, 3.5vw, 2.75rem);
+  --display-h2-weight: 800;
+  --display-h2-tracking: -0.01em;
+  --display-h2-leading: 1.2;
+  --display-h3-font-family: var(--font-display);
+  --display-h3-size: 1.25rem;
+  --display-h3-weight: 700;
+  --display-h3-tracking: -0.005em;
+  --display-h3-leading: 1.3;
+  --display-h4-font-family: var(--font-display);
+  --display-h4-size: 1rem;
+  --display-h4-weight: 700;
+  --display-h4-tracking: 0;
+  --display-h4-leading: 1.4;
+
+  --btn-radius: calc(var(--radius) - 2px);
+  --btn-h: 2.25rem;
+  --btn-px: 1rem;
+  --btn-fs: 0.875rem;
+  --btn-leading: calc(1.25 / 0.875);
+  --btn-weight: 500;
+  --btn-tracking: 0;
+  --btn-bg: var(--primary);
+  --btn-fg: var(--primary-foreground);
+  --btn-hover-bg: color-mix(in oklab, var(--btn-bg) 90%, transparent);
+  --btn-hover-bg-secondary: color-mix(
+    in oklab,
+    var(--secondary) 80%,
+    transparent
+  );
+
+  --badge-radius: 0rem;
+  --badge-px: 0.5rem;
+  --badge-fs: 0.75rem;
+  --badge-leading: calc(1 / 0.75);
+  --badge-weight: 500;
+  --badge-tracking: 0;
+
+  --card-radius: 0rem;
+  --card-shadow: none;
+
+  --input-h: 2.25rem;
+  --input-radius: calc(var(--radius) - 2px);
+  --input-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+}
+
+.dark {
+  /* Palette */
+  --color-1: oklch(0.145 0 0);
+  --color-2: oklch(0.97 0 0);
+  --color-3: oklch(0.985 0 0);
+  --color-4: oklch(0.269 0 0);
+  --color-5: oklch(0.704 0.191 22.216);
+  --color-6: oklch(0.72 0.16 152);
+  --color-7: oklch(0.78 0.15 78);
+  --color-8: oklch(0.205 0 0);
+  --color-9: oklch(0.708 0 0);
+  --color-10: oklch(1 0 0 / 12%);
+  --color-11: oklch(0.556 0 0);
+
+  --background: var(--color-1);
+  --foreground: var(--color-3);
+  --surface: var(--color-8);
+  --surface-elevated: var(--color-4);
+  --card: var(--color-8);
+  --card-foreground: var(--color-3);
+  --popover: var(--color-8);
+  --popover-foreground: var(--color-3);
+  --primary: var(--color-3);
+  --primary-foreground: var(--color-8);
+  --secondary: var(--color-4);
+  --secondary-foreground: var(--color-3);
+  --muted: var(--color-4);
+  --muted-foreground: var(--color-9);
+  --accent: var(--color-4);
+  --accent-foreground: var(--color-3);
+  --destructive: var(--color-5);
+  --destructive-foreground: var(--color-2);
+  --success: var(--color-6);
+  --success-foreground: var(--color-8);
+  --warning: var(--color-7);
+  --warning-foreground: var(--color-8);
+  --border: var(--color-10);
+  --input: var(--color-10);
+  --ring: var(--color-11);
+
+  --on-image: var(--color-2);
+  --on-image-muted: var(--color-2);
+
+  --btn-bg: var(--primary);
+  --btn-fg: var(--primary-foreground);
+  --btn-hover-bg: color-mix(in oklab, var(--btn-bg) 90%, transparent);
+  --btn-hover-bg-secondary: color-mix(
+    in oklab,
+    var(--secondary) 80%,
+    transparent
+  );
+}
