@@ -1,0 +1,282 @@
+{
+  "site": {
+    "lang": "en",
+    "meta": [
+      {
+        "property": "og:site_name",
+        "content": "Verdant Earth Foundation"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      }
+    ],
+    "links": [],
+    "scripts": []
+  },
+  "routes": {
+    "/": {
+      "meta": [
+        {
+          "title": "Verdant Earth Foundation · Restoring forests, oceans and communities"
+        },
+        {
+          "name": "description",
+          "content": "Verdant is an environmental non-profit restoring native forest, protecting oceans and bringing community-owned clean energy to 12 countries. 94 cents of every dollar reaches the field."
+        },
+        {
+          "property": "og:title",
+          "content": "Verdant Earth Foundation · The planet can't wait"
+        },
+        {
+          "property": "og:description",
+          "content": "Verdant is an environmental non-profit restoring native forest, protecting oceans and bringing community-owned clean energy to 12 countries. 94 cents of every dollar reaches the field."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:image",
+          "content": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-home-hero-canopy-1200w.png"
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-home-hero-canopy-1920w.png",
+          "imageSrcSet": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-home-hero-canopy-800w.png 800w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-home-hero-canopy-1200w.png 1200w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-home-hero-canopy-1920w.png 1920w",
+          "imageSizes": "100vw"
+        }
+      ]
+    },
+    "/about": {
+      "meta": [
+        {
+          "title": "About Verdant Earth Foundation · Mission, Story, Team"
+        },
+        {
+          "name": "description",
+          "content": "Meet Verdant Earth Foundation: our mission, the story behind our first coastal crew, our values and the team restoring forests, oceans and communities."
+        },
+        {
+          "property": "og:title",
+          "content": "About Verdant Earth Foundation · Mission, Story, Team"
+        },
+        {
+          "property": "og:description",
+          "content": "Meet Verdant Earth Foundation: our mission, the story behind our first coastal crew, our values and the team restoring forests, oceans and communities."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:image",
+          "content": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-about-hero-field-staff-1200w.png"
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-about-hero-field-staff-1920w.png",
+          "imageSrcSet": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-about-hero-field-staff-800w.png 800w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-about-hero-field-staff-1200w.png 1200w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-about-hero-field-staff-1920w.png 1920w",
+          "imageSizes": "100vw"
+        }
+      ]
+    },
+    "/programs": {
+      "meta": [
+        {
+          "title": "Our Programs · Forests, Oceans and Clean Energy | Verdant"
+        },
+        {
+          "name": "description",
+          "content": "Explore Verdant's three programs: native reforestation, community-run ocean recovery and village solar micro-grids, measured site by site in 12 countries."
+        },
+        {
+          "property": "og:title",
+          "content": "Our Programs · Forests, Oceans and Clean Energy | Verdant"
+        },
+        {
+          "property": "og:description",
+          "content": "Explore Verdant's three programs: native reforestation, community-run ocean recovery and village solar micro-grids, measured site by site in 12 countries."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:image",
+          "content": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-programs-hero-1200w.png"
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-programs-hero-1920w.png",
+          "imageSrcSet": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-programs-hero-800w.png 800w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-programs-hero-1200w.png 1200w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-programs-hero-1920w.png 1920w",
+          "imageSizes": "100vw"
+        }
+      ]
+    },
+    "/programs/reforestation": {
+      "meta": [
+        {
+          "title": "Reforestation Program · Native Forest Restoration | Verdant"
+        },
+        {
+          "name": "description",
+          "content": "Verdant plants native, mixed forest at 31 sites in 5 countries, grown in community nurseries and monitored by satellite for ten years. See how the work is done."
+        },
+        {
+          "property": "og:title",
+          "content": "Reforestation Program · Native Forest Restoration | Verdant"
+        },
+        {
+          "property": "og:description",
+          "content": "Verdant plants native, mixed forest at 31 sites in 5 countries, grown in community nurseries and monitored by satellite for ten years. See how the work is done."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:image",
+          "content": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-reforestation-1200w.png"
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-reforestation-1920w.png",
+          "imageSrcSet": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-reforestation-800w.png 800w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-reforestation-1200w.png 1200w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-reforestation-1920w.png 1920w",
+          "imageSizes": "100vw"
+        }
+      ]
+    },
+    "/programs/ocean-health": {
+      "meta": [
+        {
+          "title": "Ocean Health Program · Coastal Crews and Coral | Verdant"
+        },
+        {
+          "name": "description",
+          "content": "Coastal crews recover plastic with zero bycatch and rebuild coral reef in 38 communities. See how Verdant's ocean program works and where we operate."
+        },
+        {
+          "property": "og:title",
+          "content": "Ocean Health Program · Coastal Crews and Coral | Verdant"
+        },
+        {
+          "property": "og:description",
+          "content": "Coastal crews recover plastic with zero bycatch and rebuild coral reef in 38 communities. See how Verdant's ocean program works and where we operate."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:image",
+          "content": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-ocean-1200w.png"
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-ocean-1920w.png",
+          "imageSrcSet": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-ocean-800w.png 800w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-ocean-1200w.png 1200w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-ocean-1920w.png 1920w",
+          "imageSizes": "100vw"
+        }
+      ]
+    },
+    "/programs/clean-energy": {
+      "meta": [
+        {
+          "title": "Clean Energy Program · Community Solar Micro-grids | Verdant"
+        },
+        {
+          "name": "description",
+          "content": "Verdant builds solar micro-grids that villages own and run, replacing kerosene and paying for themselves in about 18 months. See how the program works."
+        },
+        {
+          "property": "og:title",
+          "content": "Clean Energy Program · Community Solar Micro-grids | Verdant"
+        },
+        {
+          "property": "og:description",
+          "content": "Verdant builds solar micro-grids that villages own and run, replacing kerosene and paying for themselves in about 18 months. See how the program works."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:image",
+          "content": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-energy-1200w.png"
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-energy-1920w.png",
+          "imageSrcSet": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-energy-800w.png 800w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-energy-1200w.png 1200w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-program-energy-1920w.png 1920w",
+          "imageSizes": "100vw"
+        }
+      ]
+    },
+    "/contact": {
+      "meta": [
+        {
+          "title": "Contact Verdant Earth Foundation · San Francisco Office"
+        },
+        {
+          "name": "description",
+          "content": "Contact Verdant Earth Foundation: send a message about our work, partnerships, volunteering or press, or find our San Francisco office on the map."
+        },
+        {
+          "property": "og:title",
+          "content": "Contact Verdant Earth Foundation · San Francisco Office"
+        },
+        {
+          "property": "og:description",
+          "content": "Contact Verdant Earth Foundation: send a message about our work, partnerships, volunteering or press, or find our San Francisco office on the map."
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:image",
+          "content": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-contact-hero-1200w.png"
+        }
+      ],
+      "links": [
+        {
+          "rel": "preload",
+          "as": "image",
+          "href": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-contact-hero-1920w.png",
+          "imageSrcSet": "https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-contact-hero-800w.png 800w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-contact-hero-1200w.png 1200w, https://irp.cdn-website.com/md/dmtmpl/7f6ccaa6-6c4b-47a8-a8f2-6ca48b70b1c9/dms3rep/multi/opt/verdant-contact-hero-1920w.png 1920w",
+          "imageSizes": "100vw"
+        }
+      ]
+    },
+    "/$": {
+      "meta": [
+        {
+          "title": "Page not found"
+        },
+        {
+          "name": "robots",
+          "content": "noindex"
+        }
+      ]
+    }
+  }
+}
